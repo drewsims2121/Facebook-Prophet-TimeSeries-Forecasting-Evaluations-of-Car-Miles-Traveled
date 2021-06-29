@@ -2,6 +2,9 @@
 
 **The goal of this project is to use Facebook's Prophet library to forecast the amount of miles traveled by cars within the USA, and evaluate the model using Facebook Prophet's Diagnostics**
 
+   - The data is based on the number of miles driven within the United States each year
+   - The data is collected in a monthly interval
+
 Data download link: https://fred.stlouisfed.org/series/TRFVOLUSM227NFWA
 
 **The Steps are as followed:**
